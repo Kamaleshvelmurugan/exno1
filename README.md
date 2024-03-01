@@ -23,9 +23,7 @@ STEP 6: Use zscore of to remove outliers
  
 # Coding and Output
 
-Developed by: M.CHANDRU
-
-Register no: 212222230026
+Developed by:V.Kamalesh
 
 ### 1) Read and display DataFrame
 ```python
